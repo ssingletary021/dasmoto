@@ -13,3 +13,29 @@ img {
   max-width: 100%;
   display: block;
 }
+
+body {
+  padding: 10px;
+}
+
+h1 {
+  font-family: Helvetica, sans-serif;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+
+h2 {
+  font-family: Helvetica, sans-serif;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  margin: 20px 0;
+}
+
+.price {
+  font-family: Helvetica, sans-serif;
+  font-weight: bold;
+  color: blue;
+}
